@@ -4,11 +4,20 @@
 This is my contribution to UBCO's participation in the 2025 AEAC National Student UAS Competition. In essence, part 2 of the competition outlines that the team must transport water to various hotspots using a drone. To achieve this, the team has decided to use a water tank, the design of which was completed by me and a few others. I will walk you through the design process I took, as well as each iteration of the water tank's design.  
 
 ## V0  
+
+![V0 Design](images/V01.png)
+![V0 Design](images/V02.png)
+![V0 Design](images/V03.png)
+
 The main thing to note with version 0 is the design of the baffles. Our primary concern was the sloshing caused by the water within the tank. Since this tank was placed a considerable distance from the center of mass of the drone, and we were considering carrying up to 4L of water, the focus was placed on designing baffles. Our goal was to minimize the headache experienced by the software team by reducing/eliminating oscillations caused by water movement within the tank.  
 
 As you can see, I went with a **circular baffle design**, while the rest of my peers went with a simpler square grid baffle. During the meeting of the water tank team, my design was chosen because **when the drone rotates, which it does often, square baffles mean that it will have to carry the inertia of the water with it while it rotates, whereas circular/axially symmetric baffles eliminate that inertia while still segregating the water**.  
 
 ## V1  
+![V1 Design](images/V11.png)
+![V1 Design](images/V12.png)
+![V1 Design](images/V13.png)
+![V1 Design](images/V14.png)
 The baffle has been completely redesigned in this version. My proposal for the new baffle design is the one currently being used on the drone. Instead of using vertical baffles to distribute the momentum of the water hitting the side of the tank, I used **horizontal baffles to eliminate any sloshing at all**.  
 
 We have chosen to deposit 500ml of water to each hotspot, hence a horizontal baffle was placed every 500ml within the tank. The angle of the baffle is based on the maximum amount of tilt the drone will experience during flight, as this would seal off the free surface when the drone tilts. Feel free to ask me more about this during the interview! I would love to expand on this more!  
