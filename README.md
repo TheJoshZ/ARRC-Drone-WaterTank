@@ -28,8 +28,8 @@ Since we still planned to carry 4L of water, we would need 8 compartments, meani
 Mostly changing the dimensions due to physical constraints of the drone. However, the general design for the tank and the baffles remains the same. V3 saw the volume shrink to 2.5L due to the max weight constraint of 15kg and motor/battery upgrades made on the drone.  
 
 ## V4 
-![V4 Design](images/V41.png)
-![V4 Design](images/V42.png)
+![V4 Design](images/V41.jpg)
+![V4 Design](images/V42.jpg)
 A major redesign of the tank for the drone. Instead of having one large tank, we now have a primary and secondary tank. This serves two purposes.  
 
 Firstly, as we need to deposit precisely 500ml of water at each hotspot, having a secondary tank connected to the primary tank makes manufacturing much easier. It is easier to manufacture an entire tank to 500ml than to manufacture the bottom volume (the 500ml volume created using baffles in the 2.5L tank) of a singular tank to 500ml.  
