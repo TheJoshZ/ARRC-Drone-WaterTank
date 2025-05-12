@@ -1,4 +1,4 @@
-# ARRC-Drone-WaterTank
+![image](https://github.com/user-attachments/assets/ac168497-265e-4ba6-92b7-396eeb5e5160)# ARRC-Drone-WaterTank
 
 ## 1.0 Introduction  
 This is my contribution to UBCO's participation in the 2025 AEAC National Student UAS Competition. In essence, part 2 of the competition outlines that the team must transport water to various hotspots using a drone. To achieve this, the team has decided to use a water tank, the design of which was completed by me and a few others. I will walk you through the design process I took, as well as each iteration of the water tank's design.  
@@ -38,4 +38,8 @@ Secondly, this solves the issue of needing to embed an electronic valve inside t
 
 Therefore, this is the design we decided on: a secondary tank with a volume of 500ml and a primary tank with a volume of 1.7L (1.5L + 0.5L overhead).  
 
+## 2.0 Final Product
 
+Water Tank mounted to the drone
+
+![V4 Design](images/Final.png)
